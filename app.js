@@ -3,7 +3,9 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.status(200).send('Hello fromthe server side');
+  res
+    .status(200)
+    .json({ message: 'Hello fromthe server side', app: 'Natours' });
 });
 
 const port = 3000;
