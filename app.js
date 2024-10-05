@@ -17,7 +17,14 @@ const tours = JSON.parse(
   fs.readFileSync(`${__dirname}/dev-data/data/tours-simple.json`)
 );
 
-app.length('/api/v1/tours', (req, res) => {});
+app.get('/api/v1/tours', (req, res) => {
+  res.status(200).json({
+    status: 'success',
+    data: {
+      tours,
+    },
+  });
+});
 
 const port = 3000;
 app.listen(port, () => {
