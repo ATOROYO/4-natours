@@ -42,7 +42,7 @@ app.post('/api/v1/tours', (req, res) => {
     JSON.stringify(tours),
     (err) => {
       res.status(201).json({
-        status: 'Successful',
+        status: 'Success',
         data: {
           tour: newTour,
         },
