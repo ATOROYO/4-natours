@@ -13,6 +13,10 @@ const app = express();
 //   res.send('You can post to this endpoint...');
 // });
 
+const tours = JSON.parse(
+  fs.readFileSync(`${__dirname}/dev-data/data/tours-simple.json`)
+);
+
 app.length('/api/v1/tours', (req, res) => {});
 
 const port = 3000;
