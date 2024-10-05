@@ -37,14 +37,18 @@ app.post('/api/v1/tours', (req, res) => {
 
   tours.push(newTour);
 
-  fs.writeFile(`${__dirname}/dev-data/data/tours-simple.json`, tours, (err) => {
-    res.status(201).json({
-      status: 'Successful',
-      data: {
-        tour: newTour,
-      },
-    });
-  });
+  fs.writeFile(
+    `${__dirname}/dev-data/data/tours-simple.json`,
+    JSON.stringify(tours),
+    (err) => {
+      res.status(201).json({
+        status: 'Successful',
+        data: {
+          tour: newTour,
+        },
+      });
+    }
+  );
 
   // res.send('Done');
 });
