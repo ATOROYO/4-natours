@@ -73,6 +73,18 @@ app.post('/api/v1/tours', (req, res) => {
   // res.send('Done');
 });
 
+// The pacth method
+app.patch('/api/v1/tours/:id', (req, res) => {
+  if (req.params.id * 1 > tours.length) {
+    res.status(404).json({ satatus: 'fail', message: 'Invalid ID' });
+  }
+
+  res.status(200).json({
+    status: 'success',
+    data: { tours: '<Updated tours goes here...>' },
+  });
+});
+
 const port = 3000;
 app.listen(port, () => {
   console.log(`App running on port ${port}....`);
