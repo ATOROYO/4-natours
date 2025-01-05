@@ -76,7 +76,7 @@ app.post('/api/v1/tours', (req, res) => {
 // The pacth method
 app.patch('/api/v1/tours/:id', (req, res) => {
   if (req.params.id * 1 > tours.length) {
-    res.status(404).json({ satatus: 'fail', message: 'Invalid ID' });
+    res.status(404).json({ status: 'fail', message: 'Invalid ID' });
   }
 
   res.status(200).json({
