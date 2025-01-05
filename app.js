@@ -39,7 +39,7 @@ app.get('/api/v1/tours/:id', (req, res) => {
 
   // if (id > tours.length) {
   if (!tour) {
-    res.status(404).json({ satatus: 'fail', message: 'Invalid ID' });
+    res.status(404).json({ status: 'fail', message: 'Invalid ID' });
   }
 
   res.status(200).json({
