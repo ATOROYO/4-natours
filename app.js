@@ -50,6 +50,7 @@ app.get('/api/v1/tours/:id', (req, res) => {
   });
 });
 
+// Posting to the database
 app.post('/api/v1/tours', (req, res) => {
   // console.log(req.body);
   const newId = tours[tours.length - 1].id + 1;
