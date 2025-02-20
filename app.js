@@ -6,10 +6,6 @@ const app = express();
 // Middleware
 app.use(express.json());
 
-// app.post('/', (req, res) => {
-//   res.send('You can post to this endpoint...');
-// });
-
 const tours = JSON.parse(
   fs.readFileSync(`${__dirname}/dev-data/data/tours-simple.json`)
 );
