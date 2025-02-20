@@ -6,12 +6,6 @@ const app = express();
 // Middleware
 app.use(express.json());
 
-// app.get('/', (req, res) => {
-//   res
-//     .status(200)
-//     .json({ message: 'Hello fromthe server side', app: 'Natours' });
-// });
-
 // app.post('/', (req, res) => {
 //   res.send('You can post to this endpoint...');
 // });
