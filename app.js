@@ -62,12 +62,7 @@ const createTour = (req, res) => {
   // res.send('Done');
 };
 
-app.get('/api/v1/tours', getAllTours);
-app.get('/api/v1/tours/:id', getTour);
-app.post('/api/v1/tours');
-
-// The pacth method
-app.patch('/api/v1/tours/:id', (req, res) => {
+const updateTour = (req, res) => {
   if (req.params.id * 1 > tours.length) {
     res.status(404).json({ status: 'fail', message: 'Invalid ID' });
   }
@@ -76,7 +71,12 @@ app.patch('/api/v1/tours/:id', (req, res) => {
     status: 'success',
     data: { tours: '<Updated tours goes here...>' },
   });
-});
+};
+
+app.get('/api/v1/tours', getAllTours);
+app.get('/api/v1/tours/:id', getTour);
+app.post('/api/v1/tours', createTour);
+app.patch('/api/v1/tours/:id', updateTour);
 
 app.delete('/api/v1/tours/:id', (req, res) => {
   if (req.params.id * 1 > tours.length) {
