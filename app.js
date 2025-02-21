@@ -5,6 +5,8 @@ const morgan = require('morgan');
 const app = express();
 
 // 1) Middleware
+app.use(morgan('dev'));
+
 app.use(express.json());
 
 // Our own Middleware
@@ -114,6 +116,8 @@ app
   .get(getTour)
   .patch(updateTour)
   .delete(deleteTour);
+
+app.route(/api/v1/users).get(getAllUsers).post(createUser);
 
 // 4) STARTS SERVER
 const port = 3000;
