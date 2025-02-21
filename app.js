@@ -6,6 +6,7 @@ const app = express();
 // Middleware
 app.use(express.json());
 
+// Our own Middleware
 app.use((req, res, next) => {
   console.log('Hello from the middleware 👋');
   next();
