@@ -82,7 +82,7 @@ const deleteTour = (req, res) => {
   });
 };
 
-const tourRouter = express.Router();
+const router = express.Router();
 
 router.route('/').get(getAllTours).post(createTour);
 

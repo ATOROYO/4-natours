@@ -35,7 +35,7 @@ const deleteUser = (req, res) => {
   });
 };
 
-const userRouter = express.Router();
+const router = express.Router();
 
 router.route('/').get(getAllUsers).post(createUser);
 
