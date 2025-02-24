@@ -1,6 +1,6 @@
 const app = require('./app');
 
-console.log(app.get('env'));
+console.log(process.env);
 
 // STARTS SERVER
 const port = 3000;
