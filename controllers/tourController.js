@@ -1,5 +1,4 @@
-const fs = require('fs'); // File System Module
-const Tour = require('./../models/tourModel');
+const Tour = require('../models/tourModel');
 
 exports.checkBody = (req, res, next) => {
   if (!req.body.name || !req.body.price) {
