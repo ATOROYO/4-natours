@@ -17,12 +17,6 @@ mongoose
   })
   .then(() => console.log('DB connection successful'));
 
-const testTour = new Tour({
-  name: 'The Forest Hiker',
-  rating: 4.7,
-  price: 490,
-});
-
 testTour
   .save()
   .then((doc) => {
