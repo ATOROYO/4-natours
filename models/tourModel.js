@@ -1,3 +1,5 @@
+const mongoose = require('mongoose');
+
 // The schema for the data validation
 const tourSchema = new mongoose.Schema({
   name: {
