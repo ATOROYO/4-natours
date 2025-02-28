@@ -17,15 +17,6 @@ mongoose
   })
   .then(() => console.log('DB connection successful'));
 
-testTour
-  .save()
-  .then((doc) => {
-    console.log(doc);
-  })
-  .catch((err) => {
-    console.log('ERROR:', err);
-  });
-
 // STARTS SERVER
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
