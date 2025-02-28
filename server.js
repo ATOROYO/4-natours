@@ -17,6 +17,7 @@ mongoose
   })
   .then(() => console.log('DB connection successful'));
 
+// The schema for the data validation
 const tourSchema = new mongoose.Schema({
   name: {
     type: String,
