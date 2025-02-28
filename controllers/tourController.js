@@ -25,17 +25,17 @@ exports.getAllTours = (req, res) => {
   res.status(200).json({
     status: 'success',
     requestedAt: req.requestTime,
-    results: tours.length,
-    data: {
-      tours,
+    // results: tours.length,
+    // data: {
+    //   tours,
     },
   });
 };
 
 exports.getTour = (req, res) => {
   console.log(req.params);
-
   const id = req.params.id * 1;
+  
   const tour = tours.find((el) => el.id === id);
 
   res.status(200).json({
