@@ -46,6 +46,7 @@ const tourSchema = new mongoose.Schema({
     type: String,
     required: [true, 'A tour must have a cover image'],
   },
+  images: [String],
 });
 
 // The Model for the schema
