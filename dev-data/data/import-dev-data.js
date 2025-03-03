@@ -34,3 +34,14 @@ const importData = async () => {
   }
   process.exit();
 };
+
+// Delete all data from the database
+const deleteData = async () => {
+  try {
+    await Tour.deleteMany();
+    console.log('Data successfully deleted');
+  } catch (err) {
+    console.log(err);
+  }
+  process.exit();
+};
