@@ -52,7 +52,7 @@
     "difficulty": "easy",
     "ratingsAverage": 4.6,
     "ratingsQuantity": 54,
-    "price": 1197,
+    "price": 360,
     "summary": "Enjoy breathtaking views of the Nile in Nebbi",
     "description": "Nebbi is a perfect destination for travelers looking to enjoy breathtaking views of the River Nile. This tour takes you along the riverbanks, where you can witness stunning sunrises and sunsets over the water.\nVisit the famous Alur Kingdom sites, interact with the Alur people, and learn about their rich cultural heritage. Boat rides on the Nile, fishing experiences, and birdwatching expeditions add to the beauty of this unforgettable journey!",
     "imageCover": "tour-4-cover.jpg",
@@ -61,18 +61,18 @@
   },
   {
     "id": 4,
-    "name": "The Park Camper",
+    "name": "Pakwach Wildlife Escapes",
     "duration": 10,
     "maxGroupSize": 15,
     "difficulty": "medium",
     "ratingsAverage": 4.9,
     "ratingsQuantity": 19,
-    "price": 1497,
-    "summary": "Breathing in Nature in America's most spectacular National Parks",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "price": 500,
+    "summary": "Visit Murchison Falls National Park and encounter wildlife",
+    "description": "Home to the gateway of Murchison Falls National Park, Pakwach is an ideal destination for wildlife enthusiasts. This tour takes you on thrilling game drives where you can spot elephants, lions, giraffes, and hippos in their natural habitat.\nEnjoy a boat cruise on the Nile to witness crocodiles and other aquatic creatures up close. Take a guided hike to the top of the spectacular Murchison Falls, where the Nile crashes through a narrow gorge, creating one of the most powerful waterfalls in the world.!",
     "imageCover": "tour-5-cover.jpg",
     "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
-    "startDates": ["2021-08-05,10:00", "2022-03-20,10:00", "2022-08-12,10:00"]
+    "startDates": ["2025-08-05,10:00", "2026-03-20,10:00", "2026-08-12,10:00"]
   },
   {
     "id": 5,
