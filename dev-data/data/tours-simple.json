@@ -1,18 +1,18 @@
 [
   {
     "id": 0,
-    "name": "The Forest Hiker",
+    "name": "Arua Adventure tours",
     "duration": 5,
     "maxGroupSize": 25,
     "difficulty": "easy",
     "ratingsAverage": 4.7,
     "ratingsQuantity": 37,
-    "price": 397,
-    "summary": "Breathtaking hike through the Canadian Banff National Park",
-    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 350,
+    "summary": "Explore the vibrant culture and bustling markets of Arua",
+    "description": "Arua, the commercial hub of West Nile, offers a vibrant blend of urban excitement and cultural experiences. On this tour, explore the bustling markets filled with handcrafted goods, fresh produce, and colorful fabrics.\nVisit local craft centers where artisans create beautiful works of art, and immerse yourself in the energetic nightlife featuring traditional music and dance. Discover the rich history of Arua, from colonial-era buildings to war memorials, and take a scenic walk through the nearby hills that offer stunning panoramic views of the district and a visit to oluko falls.",
     "imageCover": "tour-1-cover.jpg",
     "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
-    "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    "startDates": ["2025-06-25,10:00", "2025-07-20,10:00", "2025-10-05,10:00"]
   },
   {
     "id": 1,
