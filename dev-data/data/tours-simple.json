@@ -121,18 +121,18 @@
   },
   {
     "id": 8,
-    "name": "The Northern Lights",
+    "name": "Yumbe Eco-Tours",
     "duration": 3,
     "maxGroupSize": 12,
     "difficulty": "easy",
     "ratingsAverage": 4.9,
     "ratingsQuantity": 33,
     "price": 1497,
-    "summary": "Enjoy the Northern Lights in one of the best places in the world",
-    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "summary": "Discover the serene landscapes and natural wonders of Yumbe.",
+    "description": "Yumbe is a district rich in natural beauty and ecological wonders. This tour focuses on exploring the unspoiled landscapes, from dense forests to wide savannahs. Visit conservation areas where you can see rare plant species, migratory birds, and small wildlife.\nExperience the peaceful lifestyle of the local communities, learn about their eco-friendly practices, and take part in sustainable tourism activities such as tree planting and environmental conservation!",
     "imageCover": "tour-9-cover.jpg",
     "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
-    "startDates": ["2021-12-16,10:00", "2022-01-16,10:00", "2022-12-12,10:00"]
+    "startDates": ["2025-12-16,10:00", "2026-01-16,10:00", "2026-12-12,10:00"]
   },
   { "id": 9, "name": "Santa Maria", "duration": 10, "diffculty": "easy" },
   { "id": 10, "name": "Pacific", "duration": 8, "diffculty": "easy" },
