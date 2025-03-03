@@ -91,18 +91,18 @@
   },
   {
     "id": 6,
-    "name": "The Wine Taster",
+    "name": "Terego Nature Trails",
     "duration": 5,
     "maxGroupSize": 8,
     "difficulty": "easy",
     "ratingsAverage": 4.5,
     "ratingsQuantity": 35,
-    "price": 1997,
-    "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
-    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 450,
+    "summary": "Hike through scenic landscapes and green hills of Terego.",
+    "description": "Terego’s natural beauty makes it a fantastic location for nature lovers and hiking enthusiasts. This tour offers guided walks through scenic trails, taking you through forests, waterfalls, mountain Wati, and hidden valleys.\nAlong the way, you’ll encounter diverse bird species, medicinal plants, and picturesque landscapes perfect for photography. End your journey at one of Terego’s hilltop viewpoints, where you can enjoy stunning sunset views over the vast countryside.",
     "imageCover": "tour-7-cover.jpg",
     "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
-    "startDates": ["2021-02-12,10:00", "2021-04-14,10:00", "2021-09-01,10:00"]
+    "startDates": ["2025-07-12,10:00", "2025-08-14,10:00", "2025-09-01,10:00"]
   },
   {
     "id": 7,
