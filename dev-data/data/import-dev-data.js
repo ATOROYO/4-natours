@@ -25,3 +25,12 @@ const tours = JSON.parse(
 );
 
 // Import Data into the database
+const importData = async () => {
+  try {
+    await Tour.create(tours);
+    console.log('Data successfully loaded');
+  } catch (err) {
+    console.log(err);
+  }
+  process.exit();
+};
