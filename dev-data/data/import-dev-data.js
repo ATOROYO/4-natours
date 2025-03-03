@@ -18,3 +18,6 @@ mongoose
     useFindAndModify: false,
   })
   .then(() => console.log('DB connection successful'));
+
+// Read JSON file
+const tours = fs.readFileSync(`${__dirname}/tours-simple.json`, 'utf-8');
