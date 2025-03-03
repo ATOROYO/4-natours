@@ -31,18 +31,18 @@
   },
   {
     "id": 2,
-    "name": "The Snow Adventurer",
+    "name": "Koboko Cross-Border Expeditions",
     "duration": 4,
     "maxGroupSize": 10,
-    "difficulty": "difficult",
+    "difficulty": "easy",
     "ratingsAverage": 4.5,
     "ratingsQuantity": 13,
-    "price": 997,
-    "summary": "Exciting adventure in the snow with snowboarding and skiing",
-    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "price": 400,
+    "summary": "Experience the rich history and trade routes of Koboko",
+    "description": "Situated at the crossroads of Uganda, South Sudan, and the Democratic Republic of Congo, Koboko is a melting pot of cultures. This tour offers an exciting cross-border experience, allowing travelers to learn about the trade routes that have shaped the region’s history!\nVisit historical landmarks such as Idi Amin’s former residence, explore international markets, and engage with diverse communities. For adventure seekers, hike through the surrounding landscapes and enjoy the scenic beauty of the region.!",
     "imageCover": "tour-3-cover.jpg",
     "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
-    "startDates": ["2022-01-05,10:00", "2022-02-12,10:00", "2023-01-06,10:00"]
+    "startDates": ["2026-01-05,10:00", "2026-02-12,10:00", "2026-01-06,10:00"]
   },
   {
     "id": 3,
