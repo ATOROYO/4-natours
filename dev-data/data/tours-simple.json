@@ -46,18 +46,18 @@
   },
   {
     "id": 3,
-    "name": "The City Wanderer",
+    "name": "Nebbi Nile View Safaris",
     "duration": 9,
     "maxGroupSize": 20,
     "difficulty": "easy",
     "ratingsAverage": 4.6,
     "ratingsQuantity": 54,
     "price": 1197,
-    "summary": "Living the life of Wanderlust in the US' most beatiful cities",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+    "summary": "Enjoy breathtaking views of the Nile in Nebbi",
+    "description": "Nebbi is a perfect destination for travelers looking to enjoy breathtaking views of the River Nile. This tour takes you along the riverbanks, where you can witness stunning sunrises and sunsets over the water.\nVisit the famous Alur Kingdom sites, interact with the Alur people, and learn about their rich cultural heritage. Boat rides on the Nile, fishing experiences, and birdwatching expeditions add to the beauty of this unforgettable journey!",
     "imageCover": "tour-4-cover.jpg",
     "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
-    "startDates": ["2021-03-11,10:00", "2021-05-02,10:00", "2021-06-09,10:00"]
+    "startDates": ["2025-07-11,10:00", "2021-08-02,10:00", "2021-06-09,10:00"]
   },
   {
     "id": 4,
