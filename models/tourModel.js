@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const slugify = require('slugify');
 
 // The schema for the data validation
 const tourSchema = new mongoose.Schema(
@@ -61,6 +62,11 @@ const tourSchema = new mongoose.Schema(
 // Virtual properties
 tourSchema.virtual('durationWeeks').get(function () {
   return this.duration / 7;
+});
+
+// Document middleware: runs before .save() and .create()
+tourSchema.pre('save', function () {
+  console.log(this);
 });
 
 // The Model for the schema
