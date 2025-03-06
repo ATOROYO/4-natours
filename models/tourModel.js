@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 const slugify = require('slugify');
-const validator = require('validator');
 
 // The schema for the data validation
 const tourSchema = new mongoose.Schema(
