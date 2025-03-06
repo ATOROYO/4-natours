@@ -1,7 +1,7 @@
 {
   "name": "natours",
   "version": "1.0.0",
-  "description": "Learning node, express and mongoDb",
+  "description": "Building a Tour App for Marketing WestNile districts",
   "main": "app.js",
   "scripts": {
     "start:dev": "nodemon server.js",
