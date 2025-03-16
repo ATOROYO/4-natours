@@ -18,7 +18,7 @@ exports.signup = catchAsync(async (req, res, next) => {
     passwordConfirm: req.body.passwordConfirm,
   });
 
-  const token = signToken(newUser_id);
+  const token = signToken(newUser._id);
 
   res.status(201).json({
     status: 'Success',
