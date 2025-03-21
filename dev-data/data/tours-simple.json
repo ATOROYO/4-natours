@@ -97,7 +97,7 @@
       },
       {
         "_id": "5c88fa8cf4afda39709c2953",
-        "description": "Olewa Fall Mvara",
+        "description": "Olewa Fall",
         "type": "Point",
         "coordinates": [3.194327, 31.001627],
         "day": 3
@@ -112,7 +112,11 @@
     "difficulty": "easy",
     "ratingsAverage": 4.5,
     "ratingsQuantity": 13,
-    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a23412f8fb814b56fa185"
+    ],
     "price": 400,
     "summary": "Experience the rich history and trade routes of Koboko",
     "description": "Situated at the crossroads of Uganda, South Sudan, and the Democratic Republic of Congo, Koboko is a melting pot of cultures. This tour offers an exciting cross-border experience, allowing travelers to learn about the trade routes that have shaped the region’s history!\nVisit historical landmarks such as Idi Amin’s former residence, explore international markets, and engage with diverse communities. For adventure seekers, hike through the surrounding landscapes and enjoy the scenic beauty of the region.!",
@@ -120,32 +124,53 @@
     "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
     "startDates": ["2026-01-05,10:00", "2026-02-12,10:00", "2026-01-06,10:00"],
     "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
+      "description": "Koboko, West Nile, Uganda",
       "type": "Point",
-      "coordinates": [3.275294, 30.951552],
+      "coordinates": [3.407503, 30.960224],
       "address": "Kaya High way, Uganda"
     },
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2952",
-        "description": "Alikua Pyramid",
+        "description": "Koboko Hills",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [3.433278, 30.949994],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2951",
-        "description": "Miriadua Falls",
+        "description": "Nyarilo Mosque",
         "type": "Point",
-        "coordinates": [3.183813, 30.943845],
+        "coordinates": [3.416941, 30.96199],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c2950",
-        "description": "Olewa Fall Mvara",
+        "description": "Birijaku Border Post",
         "type": "Point",
-        "coordinates": [3.194327, 31.001627],
+        "coordinates": [3.410548, 30.938387],
         "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "Mountain Kei",
+        "type": "Point",
+        "coordinates": [3.699447, 31.16627],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2961",
+        "description": "Mountain Kei White Rhino Sanctuary",
+        "type": "Point",
+        "coordinates": [3.6685217, 31.1320731],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Audi Historical Center & Caves Koboko",
+        "type": "Point",
+        "coordinates": [3.401921, 31.034041],
+        "day": 5
       }
     ]
   },
@@ -169,32 +194,39 @@
     "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
     "startDates": ["2025-07-11,10:00", "2021-08-02,10:00", "2021-06-09,10:00"],
     "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
+      "description": "Nebbi, West Nile, Uganda",
       "type": "Point",
-      "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
+      "coordinates": [2.479378, 31.088839],
+      "address": "Highway Motel, Uganda"
     },
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c295c",
-        "description": "Alikua Pyramid",
+        "description": "Nebbi Cathedral",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [2.479207, 31.082922],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c295b",
-        "description": "Miriadua Falls",
+        "description": "Nyamuliya and Loj judongo Rocks",
         "type": "Point",
-        "coordinates": [3.183813, 30.943845],
+        "coordinates": [2.549493, 31.235646],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c295a",
-        "description": "Olewa Fall Mvara",
+        "description": "Alur Kingdom",
         "type": "Point",
-        "coordinates": [3.194327, 31.001627],
+        "coordinates": [2.478007, 31.085069],
         "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2970",
+        "description": "Biku Prayer Mountain",
+        "type": "Point",
+        "coordinates": [2.397134, 31.060848],
+        "day": 4
       }
     ]
   },
@@ -206,7 +238,11 @@
     "difficulty": "medium",
     "ratingsAverage": 4.9,
     "ratingsQuantity": 19,
-    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
     "price": 500,
     "summary": "Visit Murchison Falls National Park and encounter wildlife",
     "description": "Home to the gateway of Murchison Falls National Park, Pakwach is an ideal destination for wildlife enthusiasts. This tour takes you on thrilling game drives where you can spot elephants, lions, giraffes, and hippos in their natural habitat.\nEnjoy a boat cruise on the Nile to witness crocodiles and other aquatic creatures up close. Take a guided hike to the top of the spectacular Murchison Falls, where the Nile crashes through a narrow gorge, creating one of the most powerful waterfalls in the world.!",
@@ -214,32 +250,39 @@
     "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
     "startDates": ["2025-08-05,10:00", "2026-03-20,10:00", "2026-08-12,10:00"],
     "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
+      "description": "Pakwach, West Nile, Uganda",
       "type": "Point",
-      "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
+      "coordinates": [2.479275, 31.502641],
+      "address": "Pakwach District, Uganda"
     },
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2969",
-        "description": "Alikua Pyramid",
+        "description": "Murchison Fall NP Northern Gate (Tangi)",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [2.446603, 31.511721],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2968",
-        "description": "Miriadua Falls",
+        "description": "Pakwach Bridge",
         "type": "Point",
-        "coordinates": [3.183813, 30.943845],
+        "coordinates": [2.458928, 31.507811],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c2967",
-        "description": "Olewa Fall Mvara",
+        "description": "Panyimur Ferry Landing Site",
         "type": "Point",
-        "coordinates": [3.194327, 31.001627],
+        "coordinates": [2.296956, 31.346278],
         "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c297a",
+        "description": "Lake Albert",
+        "type": "Point",
+        "coordinates": [2.229488, 31.309297],
+        "day": 4
       }
     ]
   },
@@ -248,14 +291,10 @@
     "name": "Madi-Okollo Cultural Experience",
     "duration": 14,
     "maxGroupSize": 8,
-    "difficulty": "difficult",
+    "difficulty": "difficulty",
     "ratingsAverage": 4.7,
     "ratingsQuantity": 28,
-    "guides": [
-      "5c8a21f22f8fb814b56fa18a",
-      "5c8a1f292f8fb814b56fa184",
-      "5c8a1f4e2f8fb814b56fa185"
-    ],
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
     "price": 800,
     "summary": "Immerse yourself in the traditions of the Madi people and get ready to eat fish",
     "description": "The Madi people have a rich and unique cultural heritage that this tour brings to life. Experience traditional storytelling, dance performances, and culinary delights that showcase the beauty of the Madi culture.\nVisit historical sites, including ancient rock art, and explore the serene countryside filled with lush vegetation and rolling hills. Engage with local communities to learn about their way of life, agricultural practices, and the deep spiritual connection they have with their land!",
@@ -263,32 +302,25 @@
     "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
     "startDates": ["2025-07-19,10:00", "2025-09-06,10:00", "2026-03-18,10:00"],
     "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
+      "description": "Madi-Okollo, West Nile, Uganda",
       "type": "Point",
-      "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
+      "coordinates": [2.648877, 31.144044],
+      "address": "Gulu - Arua Road, Uganda"
     },
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2966",
-        "description": "Alikua Pyramid",
+        "description": "Ajai Wildlife Reserve",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [2.866635, 31.283526],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2965",
-        "description": "Miriadua Falls",
+        "description": "White Nile River",
         "type": "Point",
-        "coordinates": [3.183813, 30.943845],
+        "coordinates": [2.896013, 31.355858],
         "day": 2
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2964",
-        "description": "Olewa Fall Mvara",
-        "type": "Point",
-        "coordinates": [3.194327, 31.001627],
-        "day": 3
       }
     ]
   },
@@ -316,24 +348,17 @@
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2963",
-        "description": "Alikua Pyramid",
+        "description": "Mountain Wati",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [3.227631, 31.029846],
         "day": 1
       },
       {
-        "_id": "5c88fa8cf4afda39709c2962",
-        "description": "Miriadua Falls",
-        "type": "Point",
-        "coordinates": [3.183813, 30.943845],
-        "day": 2
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2961",
-        "description": "Olewa Fall Mvara",
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Olewa Fall",
         "type": "Point",
         "coordinates": [3.194327, 31.001627],
-        "day": 3
+        "day": 2
       }
     ]
   },
@@ -357,32 +382,39 @@
     "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
     "startDates": ["2025-08-23,10:00", "2025-10-25,10:00", "2026-01-30,10:00"],
     "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
+      "description": "Zombo, West Nile, Uganda",
       "type": "Point",
       "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
+      "address": "Paidha, Uganda"
     },
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2960",
-        "description": "Alikua Pyramid",
+        "description": "Nyagak Hydro Power Station",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [2.428355, 30.973262],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c295f",
-        "description": "Miriadua Falls",
+        "description": "Tombs of Obimo Jalusiga and Ubimu Rwoth",
         "type": "Point",
-        "coordinates": [3.183813, 30.943845],
+        "coordinates": [2.570971, 30.931237],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c295e",
-        "description": "Olewa Fall Mvara",
+        "description": "Rateng Shrine",
         "type": "Point",
-        "coordinates": [3.194327, 31.001627],
+        "coordinates": [2.42553, 30.983314],
         "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c297b",
+        "description": "Fountain Flora Integrate Farm",
+        "type": "Point",
+        "coordinates": [2.481539, 31.029786],
+        "day": 4
       }
     ]
   },
@@ -402,32 +434,25 @@
     "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
     "startDates": ["2025-12-16,10:00", "2026-01-16,10:00", "2026-12-12,10:00"],
     "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
+      "description": "Yumbe, West Nile, Uganda",
       "type": "Point",
-      "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
+      "coordinates": [3.474785, 31.247548],
+      "address": "Lodonga Sub-County, Yumbe District, Uganda"
     },
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c296b",
-        "description": "Alikua Pyramid",
+        "description": "Agbinika Water Falls",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [3.580856, 31.332176],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c296a",
-        "description": "Miriadua Falls",
+        "description": "Lodonga Mini Basilica",
         "type": "Point",
-        "coordinates": [3.183813, 30.943845],
+        "coordinates": [3.418453, 31.115943],
         "day": 2
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c296c",
-        "description": "Olewa Fall Mvara",
-        "type": "Point",
-        "coordinates": [3.194327, 31.001627],
-        "day": 3
       }
     ]
   },
@@ -451,31 +476,31 @@
     "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
     "startDates": ["2025-11-16,10:00", "2026-01-16,10:00", "2026-03-12,10:00"],
     "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
+      "description": "Adjumani, West Nile, Uganda",
       "type": "Point",
-      "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
+      "coordinates": [3.380982, 31.791887],
+      "address": "Atiak - Laropi Road, Adjumani District, Uganda"
     },
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2979",
-        "description": "Alikua Pyramid",
+        "description": "Zoka Forest",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [3.378623, 31.782236],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2978",
-        "description": "Miriadua Falls",
+        "description": "Palaro Chiefdom",
         "type": "Point",
-        "coordinates": [3.183813, 30.943845],
+        "coordinates": [3.356167, 30.84856],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c2977",
-        "description": "Olewa Fall Mvara",
+        "description": "Ayipe-Metu Cave",
         "type": "Point",
-        "coordinates": [3.194327, 31.001627],
+        "coordinates": [3.667761, 31.770967],
         "day": 3
       }
     ]
@@ -496,135 +521,44 @@
     "images": ["tour-10-1.jpg", "tour-10-2.jpg", "tour-10-3.jpg"],
     "startDates": ["2025-07-16,10:00", "2025-08-20,10:00", "2025-09-12,10:00"],
     "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
+      "description": "Moyo, West Nile, Uganda",
       "type": "Point",
-      "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
+      "coordinates": [3.652937, 30.727865],
+      "address": "Atiak - Laropi Road, Moyo District, Uganda"
     },
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2976",
-        "description": "Alikua Pyramid",
+        "description": "Edua Hill",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [3.657483, 31.733578],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2975",
-        "description": "Miriadua Falls",
+        "description": "Laropi Landing Site",
         "type": "Point",
-        "coordinates": [3.183813, 30.943845],
+        "coordinates": [3.551944, 31.812701],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c2974",
-        "description": "Olewa Fall Mvara",
+        "description": "Dufile Trail",
         "type": "Point",
-        "coordinates": [3.194327, 31.001627],
+        "coordinates": [3.595148, 31.873874],
         "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c297e",
+        "description": "Otze Forest White Rhino Sanctuary",
+        "type": "Point",
+        "coordinates": [3.694738, 31.890462],
+        "day": 4
       }
     ]
   },
   {
     "id": 11,
-    "name": "Nwoya Wildlife Safaris",
-    "duration": 8,
-    "maxGroupSize": 12,
-    "difficulty": "medium",
-    "ratingsAverage": 4.9,
-    "ratingsQuantity": 37,
-    "guides": [
-      "5c8a21d02f8fb814b56fa189",
-      "5c8a1f292f8fb814b56fa184",
-      "5c8a23412f8fb814b56fa185"
-    ],
-    "price": 450,
-    "summary": "Encounter diverse wildlife in the natural habitats of Nwoya.",
-    "description": "Nwoya is a haven for wildlife enthusiasts, with its diverse ecosystems and abundant wildlife. This tour offers thrilling game drives through the savannah plains, where you can spot elephants, lions, leopards, and other iconic African animals.\nEmbark on a boat safari along the Nile to see hippos, crocodiles, and a variety of bird species up close. Take guided nature walks through the bush, learning about the flora and fauna of the region. Experience the magic of the African wilderness in Nwoya!",
-    "imageCover": "tour-11-cover.jpg",
-    "images": ["tour-11-1.jpg", "tour-11-2.jpg", "tour-11-3.jpg"],
-    "startDates": ["2025-08-25,10:00", "2025-09-30,10:00", "2025-11-05,10:00"],
-    "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
-      "type": "Point",
-      "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
-    },
-    "locations": [
-      {
-        "_id": "5c88fa8cf4afda39709c2973",
-        "description": "Alikua Pyramid",
-        "type": "Point",
-        "coordinates": [3.228311, 30.978229],
-        "day": 1
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2972",
-        "description": "Miriadua Falls",
-        "type": "Point",
-        "coordinates": [3.183813, 30.943845],
-        "day": 2
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2971",
-        "description": "Olewa Fall Mvara",
-        "type": "Point",
-        "coordinates": [3.194327, 31.001627],
-        "day": 3
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Pader Cultural Journeys",
-    "duration": 6,
-    "maxGroupSize": 10,
-    "difficulty": "medium",
-    "ratingsAverage": 4.7,
-    "ratingsQuantity": 28,
-    "guides": [
-      "5c8a21d02f8fb814b56fa189",
-      "5c8a1f292f8fb814b56fa184",
-      "5c8a23412f8fb814b56fa185"
-    ],
-    "price": 399,
-    "summary": "Discover the rich cultural heritage and traditions of Pader.",
-    "description": "Pader is a district steeped in history and culture, with a vibrant community that celebrates its heritage through traditional practices and rituals. This tour takes you on a journey through the cultural heart of Pader, where you can witness traditional dances, ceremonies, and storytelling sessions.\nVisit historical sites, including ancient ruins and sacred shrines, and learn about the customs and beliefs that have shaped the region. Engage with local artisans, taste traditional cuisine, and immerse yourself in the warm hospitality of the Pader people!",
-    "imageCover": "tour-12-cover.jpg",
-    "images": ["tour-12-1.jpg", "tour-12-2.jpg", "tour-12-3.jpg"],
-    "startDates": ["2025-07-30,10:00", "2025-09-15,10:00", "2025-10-20,10:00"],
-    "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
-      "type": "Point",
-      "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
-    },
-    "locations": [
-      {
-        "_id": "5c88fa8cf4afda39709c2970",
-        "description": "Alikua Pyramid",
-        "type": "Point",
-        "coordinates": [3.228311, 30.978229],
-        "day": 1
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c297a",
-        "description": "Miriadua Falls",
-        "type": "Point",
-        "coordinates": [3.183813, 30.943845],
-        "day": 2
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c297b",
-        "description": "Olewa Fall Mvara",
-        "type": "Point",
-        "coordinates": [3.194327, 31.001627],
-        "day": 3
-      }
-    ]
-  },
-  {
-    "id": 13,
     "name": "Obongi Nile Cruises",
     "duration": 4,
     "maxGroupSize": 20,
@@ -639,32 +573,25 @@
     "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
     "startDates": ["2025-10-16,10:00", "2026-02-16,10:00", "2026-11-12,10:00"],
     "startLocation": {
-      "description": "Maracha, West Nile, Uganda",
+      "description": "Obongi, West Nile, Uganda",
       "type": "Point",
-      "coordinates": [3.275294, 30.951552],
-      "address": "Kaya High way, Uganda"
+      "coordinates": [3.248402, 30.532838],
+      "address": "Obongi District, Uganda"
     },
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c297c",
-        "description": "Alikua Pyramid",
+        "description": "MV Obongi Ferry",
         "type": "Point",
-        "coordinates": [3.228311, 30.978229],
+        "coordinates": [3.239364, 31.559616],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c297d",
-        "description": "Miriadua Falls",
+        "description": "Indlinga DRDIP Fish Cage Site",
         "type": "Point",
-        "coordinates": [3.183813, 30.943845],
+        "coordinates": [3.220225, 31.549453],
         "day": 2
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c297e",
-        "description": "Olewa Fall Mvara",
-        "type": "Point",
-        "coordinates": [3.194327, 31.001627],
-        "day": 3
       }
     ]
   }
