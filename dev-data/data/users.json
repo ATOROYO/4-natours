@@ -163,12 +163,12 @@
   },
   {
     "_id": "5c8a24822f8fb814b56fa192",
-    "name": "Donald Clark",
-    "email": "clark@gmail.com",
+    "name": "Arou Isaac",
+    "email": "arouisaac@gmail.com",
     "role": "user",
     "active": true,
     "photo": "user-19.jpg",
-    "password": "don@2025"
+    "password": "arou@2025"
   },
   {
     "_id": "5c8a24a02f8fb814b56fa193",
