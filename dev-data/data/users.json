@@ -6,7 +6,8 @@
     "role": "admin",
     "active": true,
     "photo": "user-1.jpg",
-    "password": "admin@Natours"
+    "password": "admin@Natours",
+    "passwordConfirm": "admin@Natours"
   },
   {
     "_id": "5c8a1dfa2f8fb814b56fa181",
@@ -15,7 +16,8 @@
     "role": "user",
     "active": true,
     "photo": "user-2.jpg",
-    "password": "sharon@2025"
+    "password": "sharon@2025",
+    "passwordConfirm": "sharon@2025"
   },
   {
     "_id": "5c8a1e1a2f8fb814b56fa182",
@@ -24,7 +26,8 @@
     "role": "user",
     "active": true,
     "photo": "user-3.jpg",
-    "password": "$mandela@2025"
+    "password": "mandela@2025",
+    "passwordConfirm": "mandela@2025"
   },
   {
     "_id": "5c8a1ec62f8fb814b56fa183",
@@ -33,7 +36,8 @@
     "role": "user",
     "active": true,
     "photo": "user-4.jpg",
-    "password": "baraka@2025"
+    "password": "baraka@2025",
+    "passwordConfirm": "baraka@2025"
   },
   {
     "_id": "5c8a1f292f8fb814b56fa184",
@@ -42,7 +46,8 @@
     "role": "guide",
     "active": true,
     "photo": "user-5.jpg",
-    "password": "mgbarago@2025"
+    "password": "mgbarago@2025",
+    "passwordConfirm": "mgbarago@2025"
   },
   {
     "_id": "5c8a1f4e2f8fb814b56fa185",
@@ -51,7 +56,8 @@
     "role": "guide",
     "active": true,
     "photo": "user-6.jpg",
-    "password": "bako@2025"
+    "password": "bako@2025",
+    "passwordConfirm": "bako@2025"
   },
   {
     "_id": "5c8a201e2f8fb814b56fa186",
@@ -60,7 +66,8 @@
     "role": "guide",
     "active": true,
     "photo": "user-7.jpg",
-    "password": "amviko@2025"
+    "password": "amviko@2025",
+    "passwordConfirm": "amviko@2025"
   },
   {
     "_id": "5c8a20d32f8fb814b56fa187",
@@ -69,7 +76,8 @@
     "role": "user",
     "active": true,
     "photo": "user-8.jpg",
-    "password": "nyuti@2025"
+    "password": "nyuti@2025",
+    "passwordConfirm": "nyuti@2025"
   },
   {
     "_id": "5c8a211f2f8fb814b56fa188",
@@ -78,7 +86,8 @@
     "role": "user",
     "active": true,
     "photo": "user-9.jpg",
-    "password": "kubana@2025"
+    "password": "kubana@2025",
+    "passwordConfirm": "kubana@2025"
   },
   {
     "_id": "5c8a21d02f8fb814b56fa189",
@@ -87,7 +96,8 @@
     "role": "lead-guide",
     "active": true,
     "photo": "user-10.jpg",
-    "password": "bako@2025"
+    "password": "bako@2025",
+    "passwordConfirm": "bako@2025"
   },
   {
     "_id": "5c8a21f22f8fb814b56fa18a",
@@ -96,7 +106,8 @@
     "role": "lead-guide",
     "active": true,
     "photo": "user-11.jpg",
-    "password": "nina@2025"
+    "password": "nina@2025",
+    "passwordConfirm": "nina@2025"
   },
   {
     "_id": "5c8a22c62f8fb814b56fa18b",
@@ -105,7 +116,8 @@
     "role": "lead-guide",
     "active": true,
     "photo": "user-12.jpg",
-    "password": "ayile@2025"
+    "password": "ayile@2025",
+    "passwordConfirm": "ayile@2025"
   },
   {
     "_id": "5c8a23412f8fb814b56fa18c",
@@ -114,7 +126,8 @@
     "role": "guide",
     "active": true,
     "photo": "user-13.jpg",
-    "password": "brenda@2025"
+    "password": "brenda@2025",
+    "passwordConfirm": "brenda@2025"
   },
   {
     "_id": "5c8a23c82f8fb814b56fa18d",
@@ -123,7 +136,8 @@
     "role": "user",
     "active": true,
     "photo": "user-14.jpg",
-    "password": "siki@2025"
+    "password": "siki@2025",
+    "passwordConfirm": "siki@2025"
   },
   {
     "_id": "5c8a23de2f8fb814b56fa18e",
@@ -132,7 +146,8 @@
     "role": "user",
     "active": true,
     "photo": "user-15.jpg",
-    "password": "dido@2025"
+    "password": "dido@2025",
+    "passwordConfirm": "dido@2025"
   },
   {
     "_id": "5c8a24282f8fb814b56fa18f",
@@ -141,7 +156,8 @@
     "role": "user",
     "active": true,
     "photo": "user-16.jpg",
-    "password": "bisi@2025"
+    "password": "bisi@2025",
+    "passwordConfirm": "bisi@2025"
   },
   {
     "_id": "5c8a24402f8fb814b56fa190",
@@ -150,7 +166,8 @@
     "role": "user",
     "active": true,
     "photo": "user-17.jpg",
-    "password": "mizeredi@2025"
+    "password": "mizeredi@2025",
+    "passwordConfirm": "mizeredi@2025"
   },
   {
     "_id": "5c8a245f2f8fb814b56fa191",
@@ -159,7 +176,8 @@
     "role": "user",
     "active": true,
     "photo": "user-18.jpg",
-    "password": "ocan@2025"
+    "password": "ocan@2025",
+    "passwordConfirm": "ocan@2025"
   },
   {
     "_id": "5c8a24822f8fb814b56fa192",
@@ -168,7 +186,8 @@
     "role": "user",
     "active": true,
     "photo": "user-19.jpg",
-    "password": "arou@2025"
+    "password": "arou@2025",
+    "passwordConfirm": "arou@2025"
   },
   {
     "_id": "5c8a24a02f8fb814b56fa193",
@@ -177,6 +196,7 @@
     "role": "user",
     "active": true,
     "photo": "user-20.jpg",
-    "password": "comfie@2025"
+    "password": "comfie@2025",
+    "passwordConfirm": "comfie@2025"
   }
 ]
