@@ -173,12 +173,12 @@ tourSchema.pre(/^find/, function (next) {
   next();
 });
 // Aggregation Middleware
-tourSchema.pre('aggregate', function (next) {
-  this.pipiline().unshift({ $match: { secretTour: { $ne: true } } });
+// tourSchema.pre('aggregate', function (next) {
+//   this.pipiline().unshift({ $match: { secretTour: { $ne: true } } });
 
-  console.log(this.pipeline());
-  next();
-});
+//   console.log(this.pipeline());
+//   next();
+// });
 
 // The Model for the schema
 const Tour = mongoose.model('Tour', tourSchema);
