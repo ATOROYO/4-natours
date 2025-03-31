@@ -70,7 +70,9 @@ app.use((req, res, next) => {
 
 // 3) ROUTES
 app.get('/', (req, res) => {
-  res.status(200).render('base', { title: 'Home' });
+  res
+    .status(200)
+    .render('base', { tour: 'Maracha Mystical Trails', user: 'Dave' });
 });
 
 app.use('/api/v1/tours', tourRouter);
