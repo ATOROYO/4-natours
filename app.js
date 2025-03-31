@@ -75,6 +75,14 @@ app.get('/', (req, res) => {
     .render('base', { tour: 'Maracha Mystical Trails', user: 'Dave' });
 });
 
+app.get('/overview', (req, res) => {
+  res.status(200).render('overview', { title: 'All Tours' });
+});
+
+app.get('/tour', (req, res) => {
+  res.status(200).render('tour', { title: 'Maracha Mystical Trails' });
+});
+
 app.use('/api/v1/tours', tourRouter);
 app.use('/api/v1/users', userRouter);
 app.use('/api/v1/reviews', reviewRouter);
