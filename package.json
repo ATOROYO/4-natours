@@ -6,7 +6,9 @@
   "scripts": {
     "start:dev": "nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js",
-    "debug": "ndb server.js"
+    "debug": "ndb server.js",
+    "watch:js": "parcel watch ./public/js/index.js --dist-dir ./public/js --out-file bundle.js",
+    "build:js": "parcel watch ./public/js/index.js --dist-dir ./public/js --out-file bundle.js"
   },
   "author": "David Atoroyo Sika",
   "license": "ISC",
@@ -40,6 +42,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^5.2.3",
     "eslint-plugin-react": "^7.37.4",
+    "parcel": "^2.14.4",
     "prettier": "^3.5.2"
   }
 }
