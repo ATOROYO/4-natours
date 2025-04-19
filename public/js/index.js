@@ -1,1 +1,1 @@
-console.log('Hello from Parcel');
+console.log('Hello from P arcel');
