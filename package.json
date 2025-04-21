@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "Building a Tour App for Marketing WestNile districts",
   "main": "app.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start:dev": "nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js",
     "debug": "ndb server.js",
-    "watch:js": "parcel watch ./public/js/index.js --dist-dir ./public/js --output bundle.js",
-    "build:js": "parcel build ./public/js/index.js --dist-dir ./public/js --output bundle.js"
+    "watch:js": "parcel watch ./public/js/index.js --dist-dir ./public/js/bundle.js",
+    "build:js": "parcel build ./public/js/index.js --dist-dir ./public/js/bundle.js"
   },
   "author": "David Atoroyo Sika",
   "license": "ISC",
